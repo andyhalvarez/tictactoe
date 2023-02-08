@@ -2,7 +2,7 @@
 
 ### Made with Bootstrap and React
 
-[Live Server](https://vercel.com/andyhalvarez/tictactoe)
+[Live Server](https://tictactoe-pi-three.vercel.app/)
 
 Play as A and B with your partner (2 Players).
 Click on any valid Box to put your sign of either 'X' or 'O'.
