@@ -19,7 +19,7 @@ export default function EndGame({
       </span>
 
       <button className="btn" onClick={restartGame}>
-        Resatrt Game
+        Restart Game
       </button>
       <button className="btn" onClick={clearHistory}>
         Clear History
