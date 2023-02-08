@@ -4,6 +4,10 @@
 
 [Live Server](https://tictactoe-pi-three.vercel.app/)
 
+## ScreenShots
+
+![TicTacToe Screenshot](public/images/tictactoe.png)
+
 Play as A and B with your partner (2 Players).
 Click on any valid Box to put your sign of either 'X' or 'O'.
 Already clicked box becomes disabled.
